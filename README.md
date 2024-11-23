@@ -23,6 +23,17 @@ A **Front-end Developer**  and an advocate for building **responsive**, **access
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
+<table align="center">
+  <tr>
+    <td align="center" width="40%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Kula529&theme=dark&hide_border=true&border_radius=9.4&ring=3A0CA3&fire=D62828&dates=00F5D4&sideLabels=FFC300&stroke=8338EC&currStreakLabel=FFC300" alt="Kula529" /></a>
+    </td>
+    <td align="center" width="60%">
+        <a href="#-my-github-stats--"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=HighAmbition211&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true" alt="HighAmbition211" /></a>
+    </td>
+  </tr>
+</table>
+
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=johnmwendwa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![Temur current streak](https://streak-stats.demolab.com/?user=johnmwendwa&count_private=true&theme=blue-green&title_color=00b3ff)](#)
