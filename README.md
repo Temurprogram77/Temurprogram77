@@ -15,8 +15,6 @@ A **Front-end Developer**  and an advocate for building **responsive**, **access
 1. [Christmas Parallax site](https://christmas-temur.netlify.app/)
 2. [Sites NFT](https://silver-florentine-05dd48.netlify.app/)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode,styledcomponents,stackoverflow&perline=13)](#)
 
 <div style="width:100%">
  
@@ -35,6 +33,9 @@ A **Front-end Developer**  and an advocate for building **responsive**, **access
 <a href="https://nodejs.org/en" target="_blank"><img align="left" alt="Node.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
 
 </div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode,styledcomponents,stackoverflow&perline=13)](#)
 
 <br>
 
