@@ -15,6 +15,7 @@ A **Front-end Developer**  and an advocate for building **responsive**, **access
 1. [Christmas Parallax site](https://christmas-temur.netlify.app/)
 2. [Sites NFT](https://silver-florentine-05dd48.netlify.app/)
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 
 <div style="width:100%">
  
