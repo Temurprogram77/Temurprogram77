@@ -12,9 +12,10 @@ A **Front-end Developer**  and an advocate for building **responsive**, **access
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
 1. [Christmas Parallax site](https://christmas-temur.netlify.app/)
-2. [Sites NFT](https://silver-florentine-05dd48.netlify.app/)
-3. [Sites Watches](https://tiny-sorbet-49949a.netlify.app)
-4. [Games sites](https://singular-peony-aa25cd.netlify.app/)
+2. [Site NFT](https://silver-florentine-05dd48.netlify.app/)
+3. [Site Watches](https://tiny-sorbet-49949a.netlify.app)
+4. [Games site](https://singular-peony-aa25cd.netlify.app/)
+4. [Books filter site](https://temur-coder-books.netlify.app/)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 
