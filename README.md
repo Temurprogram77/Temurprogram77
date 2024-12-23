@@ -24,10 +24,6 @@ A **Front-end Developer**  and an advocate for building **responsive**, **access
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode,styledcomponents,stackoverflow&perline=13)](#)
 
-
- [![Temur's github stats](https://bad-apple-github-readme.vercel.app/api?username=johnmwendwa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
 
