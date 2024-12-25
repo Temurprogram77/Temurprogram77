@@ -27,8 +27,6 @@ A **Front-end Developer**  and an advocate for building **responsive**, **access
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
  [![Temur's github stats](https://bad-apple-github-readme.vercel.app/api?username=johnmwendwa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
-
 
 [![Temur current streak](https://streak-stats.demolab.com/?user=johnmwendwa&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
