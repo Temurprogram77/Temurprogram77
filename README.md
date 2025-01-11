@@ -40,6 +40,8 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode,styledcomponents,stackoverflow&perline=13)](#)
 ## 📊 Most Used Languages  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=blue-green&title_color=00b3ff&token=YOUR_PERSONAL_ACCESS_TOKEN)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=blue-green&title_color=00b3ff)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
