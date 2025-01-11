@@ -35,6 +35,14 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 5. [Books Filter Site](https://temur-coder-books.netlify.app/)
 6. [New Year Site](https://christmas-site-pro.netlify.app/)
 
+## 🚀 Featured Projects  
+
+### [Christmas Parallax Site](https://christmas-temur.netlify.app/)  
+![Christmas Parallax Demo](https://media.giphy.com/media/example.gif)  
+
+### [Games Site](https://singular-peony-aa25cd.netlify.app/)  
+![Games Site Demo](https://media.giphy.com/media/example2.gif)  
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:** 
