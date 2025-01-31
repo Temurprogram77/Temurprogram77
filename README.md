@@ -53,3 +53,4 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+<span>Bye-Bye</span>
