@@ -41,25 +41,17 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,python,java,ts,go,react,git,github,vscode,styledcomponents,stackoverflow&perline=13)](#)
 ## 📊 Most Used Languages  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=blue-green&title_color=00b3ff&token=YOUR_PERSONAL_ACCESS_TOKEN)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temurprogram77&layout=compact&theme=blue-green&title_color=00b3ff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
-[![Temur's github stats](https://bad-apple-github-readme.vercel.app/api?username=yourgithubusername&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
-[![Temur's current streak](https://streak-stats.demolab.com/?user=yourgithubusername&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Temur's github stats](https://bad-apple-github-readme.vercel.app/api?username=Temurprogram77&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+[![Temur's current streak](https://streak-stats.demolab.com/?user=Temurprogram77&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <a align="center" href="#-my-github-stats--">
   <img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-
-
-
-
-
-
-
