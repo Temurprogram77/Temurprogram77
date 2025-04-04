@@ -63,9 +63,9 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 
 ### 📈 GitHub Contribution Graph
 
-![GitHub Activity Graph](https://github-contributions-svg.vercel.app/api?username=Temurprogram77)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Temurprogram77&theme=github)
 
 ### 🏙 GitHub Skyline (3D vizualizatsiya)
 
-[![GitHub Skyline](https://skyline.github.com/Temurprogram77/2023.png)](https://skyline.github.com/Temurprogram77/2023)
+[![GitHub Skyline](https://raw.githubusercontent.com/Temurprogram77/Temurprogram77/main/skyline.png)](https://skyline.github.com/Temurprogram77/2023)
 
