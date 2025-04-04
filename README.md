@@ -38,7 +38,7 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:** 
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,tailwind,java,ts,go,react,c#,cplusplus,git,github,vscode,styledcomponents,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,tailwind,java,ts,go,react,c#,git,github,vscode,styledcomponents,stackoverflow&perline=13)](#)
 ## 📊 Most Used Languages  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temurprogram77&layout=compact&theme=blue-green&title_color=00b3ff)](https://github.com/anuraghazra/github-readme-stats)
