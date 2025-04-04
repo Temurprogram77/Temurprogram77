@@ -57,15 +57,3 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-### 📊 GitHub Statistikasi
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Temurprogram77&show_icons=true&theme=dark)
-
-### 📈 GitHub Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Temurprogram77&theme=github)
-
-### 🏙 GitHub Skyline (3D vizualizatsiya)
-
-[![GitHub Skyline](https://raw.githubusercontent.com/Temurprogram77/Temurprogram77/main/skyline.png)](https://skyline.github.com/Temurprogram77/2023)
-
