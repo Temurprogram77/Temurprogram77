@@ -35,6 +35,7 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 6. [Books Site Colorib](https://jazzy-phoenix-ab5621.netlify.app/)
 7. [Kun Uz Clone](https://kun-uz2.netlify.app/)
 7. [Alert Register RegEx](https://startling-profiterole-237e3c.netlify.app/)
+7. [Rosary counter](https://rosary-counter.netlify.app//)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:** 
 
