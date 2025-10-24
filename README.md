@@ -10,15 +10,46 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 
 - Open to project collaborations
 - You can reach me through: 
-  <a href="mailto:dev.temur@gmail.com" title="Email">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/>
-  </a> 
-  <a href="https://whatsapp.com" title="Whatsapp">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/>
-  </a> 
-  <a href="https://www.linkedin.com">
-    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center"/>
-  </a>
+  <!-- Gmail -->
+<a href="mailto:dev.temur@gmail.com" title="Gmail">
+  <img
+    alt="Gmail"
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    height="30"
+    align="center"
+  />
+</a>
+
+<!-- Telegram -->
+<a href="https://t.me/temurdev" title="Telegram">
+  <img
+    alt="Telegram"
+    src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+    height="30"
+    align="center"
+  />
+</a>
+
+<!-- Instagram -->
+<a href="https://instagram.com/temur.dev" title="Instagram">
+  <img
+    alt="Instagram"
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    height="30"
+    align="center"
+  />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/temurdev" title="LinkedIn">
+  <img
+    alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    height="30"
+    align="center"
+  />
+</a>
+
 
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
