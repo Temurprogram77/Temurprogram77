@@ -39,7 +39,7 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
     align="center"
   />
 </a>
-
+</br>
 
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
