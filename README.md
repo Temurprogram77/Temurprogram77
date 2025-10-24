@@ -10,18 +10,8 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 
 - Open to project collaborations
 - You can reach me through: 
-  <!-- Gmail -->
-<a href="mailto:dev.temur@gmail.com" title="Gmail">
-  <img
-    alt="Gmail"
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    height="30"
-    align="center"
-  />
-</a>
-
 <!-- Telegram -->
-<a href="https://t.me/temurdev" title="Telegram">
+<a href="https://t.me/Temurbek_707_7" title="Telegram">
   <img
     alt="Telegram"
     src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
@@ -31,7 +21,7 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 </a>
 
 <!-- Instagram -->
-<a href="https://instagram.com/temur.dev" title="Instagram">
+<a href="https://www.instagram.com/_temurbek.narzullayev/" title="Instagram">
   <img
     alt="Instagram"
     src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
@@ -41,7 +31,7 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 </a>
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/temurdev" title="LinkedIn">
+<a href="https://www.linkedin.com/in/temur-narzullayev-41a001390/" title="LinkedIn">
   <img
     alt="LinkedIn"
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
