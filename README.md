@@ -1,73 +1,76 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&text=Hi,%20I'm%20Temurbek&fontSize=40&fontAlignY=35"/>
-</p>
+# Hi... I'm Temurbek <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-<h3 align="center">
-  Front-end Developer • Web Enthusiast • Lifelong Learner
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=I+build+responsive+web+interfaces;I+love+clean+UI+and+UX;Always+learning+new+technologies"/>
-</p>
-
----
+A **Front-end Developer** and an advocate for building **responsive**, **accessible**, and **inclusive** digital products and experiences for the web based in Nairobi, Kenya. 
 
 ## 👨‍💻 About Me  
+I'm a passionate developer who enjoys creating interactive and user-friendly web interfaces. My interests include:
+- 🌟 Exploring **AI-driven technologies**  
+- 🎮 Building **game-based applications**  
+- 🚀 Diving into **blockchain technology**  
 
-- 💡 Front-end developer who enjoys clean and scalable UI  
-- 🎨 Focused on accessibility and user experience  
-- 🌍 Interested in real-world web applications  
+- Open to project collaborations
+- You can reach me through: 
+<!-- Telegram -->
+<a href="https://t.me/..." title="Telegram">
+  <img
+    alt="Telegram"
+    src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+    height="30"
+    align="center"
+  />
+</a>
 
-### Currently exploring:
-- 🤖 AI-powered web apps  
-- 🎮 Game-based projects  
-- 🔗 Blockchain & Web3 basics  
+<!-- Instagram -->
+<a href="https://www.instagram.com/temurbek..../" title="Instagram">
+  <img
+    alt="Instagram"
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    height="30"
+    align="center"
+  />
+</a>
 
----
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/..../" title="LinkedIn">
+  <img
+    alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    height="30"
+    align="center"
+  />
+</a>
+</br>
 
-## 🤝 Connect With Me  
+- **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
+
+[- Currently working on <a href="https://book-commerce-murex.vercel.app/">Book Commerce</a>]
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
+
+1. [Christmas Parallax Site](https://christmas-temur.netlify.app/)
+2. [Site NFT](https://silver-florentine-05dd48.netlify.app/)
+3. [Site Watches](https://tiny-sorbet-49949a.netlify.app/)
+4. [Games Site](https://singular-peony-aa25cd.netlify.app/)
+5. [Books Filter Site](https://temur-coder-books.netlify.app/)
+6. [New Year Site](https://christmas-site-pro.netlify.app/)
+6. [Books Site Colorib](https://jazzy-phoenix-ab5621.netlify.app/)
+7. [Kun Uz Clone](https://kun-uz2.netlify.app/)
+7. [Alert Register RegEx](https://startling-profiterole-237e3c.netlify.app/)
+7. [Rosary counter](https://rosary-counter.netlify.app//)
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:** 
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,dart,cpp,python,flutter,php,html,css,vscode,visualstudio,pycharm,webstorm,androidstudio,linux,kali,tailwind,sass,bootstrap,styledcomponents,react,vite,vue,angular,astro,nodejs,git,github,pnpm,npm,yarn,figma,stackoverflow&perline=13)](#)
+## 📊 Most Used Languages  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temurprogram77&layout=compact&theme=blue-green&title_color=00b3ff)](https://github.com/anuraghazra/github-readme-stats)
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+[![Temur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Temurprogram77&show_icons=true&count_private=true&theme=blue-green&title_color=00b3ff&icon_color=00b3ff)](https://github.com/Temurprogram77)
+
+[![Temur's current streak](https://streak-stats.demolab.com/?user=Temurprogram77&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <p align="center">
-  <a href="https://t.me/...">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/temurbek..../">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/..../">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🚀 Currently Working On  
-
-✨ **Book Commerce**  
-https://book-commerce-murex.vercel.app/
-
----
-
-## 🧩 Selected Projects  
-
-<p align="center">
-🎄 <a href="https://christmas-temur.netlify.app/">Christmas Parallax</a> •
-🖼️ <a href="https://silver-florentine-05dd48.netlify.app/">NFT Site</a> •
-🎮 <a href="https://singular-peony-aa25cd.netlify.app/">Games</a> •
-📚 <a href="https://temur-coder-books.netlify.app/">Books Filter</a> •
-📰 <a href="https://kun-uz2.netlify.app/">Kun.uz Clone</a>
-</p>
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,astro,vite,tailwind,sass,bootstrap,nodejs,git,github,figma,linux,kali&perline=9"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
