@@ -1,84 +1,104 @@
-# Hi, I'm Temurbek 👋  
-<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="45" />
+# Hi, I’m Temurbek 👋
 
-### Front-end Developer | Web Enthusiast | Lifelong Learner  
+Front-end Developer | Web Enthusiast | Lifelong Learner  
 
-I’m a **Front-end Developer** focused on building **responsive**, **accessible**, and **inclusive** digital experiences for the web.  
-I enjoy turning ideas into clean, functional, and visually appealing interfaces.
+I’m a **Front-end Developer** who enjoys building **responsive**, **accessible**, and **user-friendly** web interfaces.  
+My focus is on writing clean code and creating meaningful digital experiences.
 
 ---
 
 ## 👨‍💻 About Me  
 
 - 💡 Passionate about modern web technologies  
-- 🎨 Love crafting interactive & user-friendly UI  
-- 🌍 Interested in scalable and real-world web solutions  
+- 🎨 Enjoy crafting interactive and intuitive UI  
+- 🌍 Interested in real-world and scalable web solutions  
 
 ### Currently exploring:
-- 🤖 **AI-powered web applications**
-- 🎮 **Game-based web projects**
-- 🔗 **Blockchain & Web3 fundamentals**
+- 🤖 AI-powered web applications  
+- 🎮 Game-based web projects  
+- 🔗 Blockchain & Web3 fundamentals  
 
-📌 **Open to collaborations** on interesting projects  
-📬 **Let’s connect:**
+📌 Open to collaboration and learning opportunities  
 
-<p align="left">
-  <a href="https://t.me/..." title="Telegram">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/temurbek..../" title="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/..../" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+---
+
+## 🤝 Connect With Me  
+
+<p>
+  <a href="https://t.me/..." target="_blank">Telegram</a> •
+  <a href="https://www.instagram.com/temurbek..../" target="_blank">Instagram</a> •
+  <a href="https://www.linkedin.com/in/..../" target="_blank">LinkedIn</a>
 </p>
 
-> 🤝 Feel free to **fork**, **contribute**, or **open issues** on any project.
+> You are welcome to **fork**, **contribute**, or **suggest improvements** to any of my projects.
 
 ---
 
 ## 🚀 Currently Working On  
 
-🔹 **[Book Commerce](https://book-commerce-murex.vercel.app/)** — an interactive book-based web platform
+**Book Commerce**  
+An interactive book-based web platform  
+🔗 https://book-commerce-murex.vercel.app/
 
 ---
 
-## 🧩 Recent Projects  
+## 🧩 Selected Projects  
 
-1. 🎄 [Christmas Parallax Site](https://christmas-temur.netlify.app/)
-2. 🖼️ [NFT Landing Page](https://silver-florentine-05dd48.netlify.app/)
-3. ⌚ [Watches Website](https://tiny-sorbet-49949a.netlify.app/)
-4. 🎮 [Games Platform](https://singular-peony-aa25cd.netlify.app/)
-5. 📚 [Books Filter App](https://temur-coder-books.netlify.app/)
-6. 🎆 [New Year Landing Page](https://christmas-site-pro.netlify.app/)
-7. 🎨 [Books Site – Colorib](https://jazzy-phoenix-ab5621.netlify.app/)
-8. 📰 [Kun.uz Clone](https://kun-uz2.netlify.app/)
-9. 🔐 [Register Alert (RegEx)](https://startling-profiterole-237e3c.netlify.app/)
-10. 📿 [Rosary Counter](https://rosary-counter.netlify.app/)
+- 🎄 Christmas Parallax Website  
+  https://christmas-temur.netlify.app/
+
+- 🖼️ NFT Landing Page  
+  https://silver-florentine-05dd48.netlify.app/
+
+- ⌚ Watches Website  
+  https://tiny-sorbet-49949a.netlify.app/
+
+- 🎮 Games Platform  
+  https://singular-peony-aa25cd.netlify.app/
+
+- 📚 Books Filter Application  
+  https://temur-coder-books.netlify.app/
+
+- 🎆 New Year Landing Page  
+  https://christmas-site-pro.netlify.app/
+
+- 🎨 Books Site (Colorib)  
+  https://jazzy-phoenix-ab5621.netlify.app/
+
+- 📰 Kun.uz Clone  
+  https://kun-uz2.netlify.app/
+
+- 🔐 Register Alert (RegEx Validation)  
+  https://startling-profiterole-237e3c.netlify.app/
+
+- 📿 Rosary Counter  
+  https://rosary-counter.netlify.app/
 
 ---
 
 ## 🛠️ Languages & Tools  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,dart,cpp,python,flutter,php,html,css,react,vite,vue,angular,astro,nodejs,tailwind,sass,bootstrap,styledcomponents,git,github,pnpm,npm,yarn,figma,linux,kali,vscode,visualstudio,pycharm,webstorm,androidstudio&perline=12"/>
-</p>
+**Frontend:**  
+HTML • CSS • JavaScript • TypeScript • React • Vue • Angular • Astro • Vite  
+
+**Styling:**  
+Tailwind CSS • Sass • Bootstrap • Styled Components  
+
+**Backend & Others:**  
+Node.js • PHP • Python • Dart • Flutter  
+
+**Tools & Platforms:**  
+Git • GitHub • npm • pnpm • yarn • Figma • Linux • Kali Linux  
 
 ---
 
-## 📊 GitHub Stats  
+## 📌 Goals  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Temurprogram77&show_icons=true&count_private=true&theme=blue-green"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temurprogram77&layout=compact&theme=blue-green"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Temurprogram77&theme=blue-green"/>
-</p>
+- Improve frontend architecture and performance  
+- Build production-ready real-world projects  
+- Grow as a professional web developer  
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+Thank you for visiting my profile ✨  
+Feel free to explore my repositories and projects.
