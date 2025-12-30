@@ -1,104 +1,73 @@
-# Hi, I’m Temurbek 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&text=Hi,%20I'm%20Temurbek&fontSize=40&fontAlignY=35"/>
+</p>
 
-Front-end Developer | Web Enthusiast | Lifelong Learner  
+<h3 align="center">
+  Front-end Developer • Web Enthusiast • Lifelong Learner
+</h3>
 
-I’m a **Front-end Developer** who enjoys building **responsive**, **accessible**, and **user-friendly** web interfaces.  
-My focus is on writing clean code and creating meaningful digital experiences.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=I+build+responsive+web+interfaces;I+love+clean+UI+and+UX;Always+learning+new+technologies"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-- 💡 Passionate about modern web technologies  
-- 🎨 Enjoy crafting interactive and intuitive UI  
-- 🌍 Interested in real-world and scalable web solutions  
+- 💡 Front-end developer who enjoys clean and scalable UI  
+- 🎨 Focused on accessibility and user experience  
+- 🌍 Interested in real-world web applications  
 
 ### Currently exploring:
-- 🤖 AI-powered web applications  
-- 🎮 Game-based web projects  
-- 🔗 Blockchain & Web3 fundamentals  
-
-📌 Open to collaboration and learning opportunities  
+- 🤖 AI-powered web apps  
+- 🎮 Game-based projects  
+- 🔗 Blockchain & Web3 basics  
 
 ---
 
 ## 🤝 Connect With Me  
 
-<p>
-  <a href="https://t.me/..." target="_blank">Telegram</a> •
-  <a href="https://www.instagram.com/temurbek..../" target="_blank">Instagram</a> •
-  <a href="https://www.linkedin.com/in/..../" target="_blank">LinkedIn</a>
+<p align="center">
+  <a href="https://t.me/...">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/temurbek..../">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/..../">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-
-> You are welcome to **fork**, **contribute**, or **suggest improvements** to any of my projects.
 
 ---
 
 ## 🚀 Currently Working On  
 
-**Book Commerce**  
-An interactive book-based web platform  
-🔗 https://book-commerce-murex.vercel.app/
+✨ **Book Commerce**  
+https://book-commerce-murex.vercel.app/
 
 ---
 
 ## 🧩 Selected Projects  
 
-- 🎄 Christmas Parallax Website  
-  https://christmas-temur.netlify.app/
-
-- 🖼️ NFT Landing Page  
-  https://silver-florentine-05dd48.netlify.app/
-
-- ⌚ Watches Website  
-  https://tiny-sorbet-49949a.netlify.app/
-
-- 🎮 Games Platform  
-  https://singular-peony-aa25cd.netlify.app/
-
-- 📚 Books Filter Application  
-  https://temur-coder-books.netlify.app/
-
-- 🎆 New Year Landing Page  
-  https://christmas-site-pro.netlify.app/
-
-- 🎨 Books Site (Colorib)  
-  https://jazzy-phoenix-ab5621.netlify.app/
-
-- 📰 Kun.uz Clone  
-  https://kun-uz2.netlify.app/
-
-- 🔐 Register Alert (RegEx Validation)  
-  https://startling-profiterole-237e3c.netlify.app/
-
-- 📿 Rosary Counter  
-  https://rosary-counter.netlify.app/
+<p align="center">
+🎄 <a href="https://christmas-temur.netlify.app/">Christmas Parallax</a> •
+🖼️ <a href="https://silver-florentine-05dd48.netlify.app/">NFT Site</a> •
+🎮 <a href="https://singular-peony-aa25cd.netlify.app/">Games</a> •
+📚 <a href="https://temur-coder-books.netlify.app/">Books Filter</a> •
+📰 <a href="https://kun-uz2.netlify.app/">Kun.uz Clone</a>
+</p>
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🛠️ Tech Stack  
 
-**Frontend:**  
-HTML • CSS • JavaScript • TypeScript • React • Vue • Angular • Astro • Vite  
-
-**Styling:**  
-Tailwind CSS • Sass • Bootstrap • Styled Components  
-
-**Backend & Others:**  
-Node.js • PHP • Python • Dart • Flutter  
-
-**Tools & Platforms:**  
-Git • GitHub • npm • pnpm • yarn • Figma • Linux • Kali Linux  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,astro,vite,tailwind,sass,bootstrap,nodejs,git,github,figma,linux,kali&perline=9"/>
+</p>
 
 ---
 
-## 📌 Goals  
-
-- Improve frontend architecture and performance  
-- Build production-ready real-world projects  
-- Grow as a professional web developer  
-
----
-
-Thank you for visiting my profile ✨  
-Feel free to explore my repositories and projects.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
