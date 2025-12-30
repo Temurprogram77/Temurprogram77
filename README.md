@@ -11,7 +11,7 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 - Open to project collaborations
 - You can reach me through: 
 <!-- Telegram -->
-<a href="https://t.me/..." title="Telegram">
+<a href="https://t.me/Temurbek_707_7" title="Telegram">
   <img
     alt="Telegram"
     src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
@@ -21,7 +21,7 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 </a>
 
 <!-- Instagram -->
-<a href="https://www.instagram.com/temurbek..../" title="Instagram">
+<a href="https://www.instagram.com/_temurbek.narzullayev/" title="Instagram">
   <img
     alt="Instagram"
     src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
@@ -31,7 +31,7 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 </a>
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/..../" title="LinkedIn">
+<a href="https://www.linkedin.com/in/temur-narzullayev-41a001390/" title="LinkedIn">
   <img
     alt="LinkedIn"
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
