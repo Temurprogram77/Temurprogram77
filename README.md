@@ -1,186 +1,126 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Temurbek%20Narzullayev&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Qarshi%2C%20Uzbekistan%20%F0%9F%87%BA%F0%9F%87%BF&descAlignY=60&descSize=18" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123C69,100:00B3FF&height=220&section=header&text=Temurbek%20Narzullayev&fontSize=48&fontColor=FFFFFF&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20Qarshi%2C%20Uzbekistan&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="Temurbek Narzullayev profile header" />
+</div> <div align="center">
+  <a href="https://t.me/Temurbek_Farkhodovich"><img src="https://img.shields.io/badge/Telegram-Temurbek__Farkhodovich-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.linkedin.com/in/temurbek-narzullayev/"><img src="https://img.shields.io/badge/LinkedIn-Temurbek%20Narzullayev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Temurprogram77"><img src="https://img.shields.io/badge/GitHub-Temurprogram77-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/temurbekcoder/"><img src="https://img.shields.io/badge/LeetCode-temurbekcoder-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://fiverr.com/temurbekcoder"><img src="https://img.shields.io/badge/Fiverr-temurbekcoder-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+  <a href="https://temurbek-narzullayev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+</div>   
+ <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1800&color=00B3FF&center=true&vCenter=true&width=720&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Python+%7C+Flutter;Building+clean%2C+scalable+digital+experiences;Deadline-driven+and+quality-focused;Open+to+freelance+and+remote+opportunities" alt="Animated introduction" />
+</div>   
+ <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Temurprogram77&label=Profile%20Views&color=00B3FF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Temurprogram77?label=Followers&style=flat-square&color=123C69" alt="GitHub followers" />
+</div> <hr />
+
+About Me
+
+I am Temurbek Narzullayev, a Full Stack Developer from Qarshi, Uzbekistan. I build modern web applications and mobile experiences across the full product lifecycle - from thoughtful user interfaces to reliable APIs and production-ready deployments.
+
+My approach combines clean architecture, practical problem-solving, responsive design, and consistent communication. I am open to freelance projects, remote opportunities, and meaningful collaborations.
+
+Profile
+Details
+Role
+Full Stack Developer
+Location
+Qarshi, Uzbekistan
+
+
+
+
+| Focus | Frontend, backend, mobile, and product delivery |
+| Availability | Open to freelance and remote work |
+| Telegram | @Temurbek_Farkhodovich |
+
+What I Do
+
+•
+Frontend development: I create accessible, responsive, and polished interfaces with React, Next.js, TypeScript, Tailwind CSS, and Mantine UI.
+
+•
+Backend development: I design REST APIs and backend systems with Python, Django, FastAPI, PostgreSQL, and Redis.
+
+•
+Mobile development: I build cross-platform applications with Flutter and Dart.
+
+•
+UI engineering: I turn product ideas and Figma designs into reusable, maintainable components with attention to detail.
+
+•
+Delivery and collaboration: I work with clear milestones, practical documentation, version control, and a strong focus on quality and deadlines.
+
+Skills & Technologies
+
+Frontend
 
 <div align="center">
-  <a href="https://t.me/FullStack_developeer">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/temur-narzullayev-41a001390/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://fiverr.com/temurbekcoder">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-  </a>
-  <a href="https://temurbek-narzullayev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://peerlist.io/temurbek">
-    <img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/_temurbek.narzullayev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,mantine,vite,astro,redux,sass,bootstrap&perline=13" alt="Frontend technologies" />
 </div>
 
-<br/>
+Backend & Databases
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00B3FF&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Python+%7C+Flutter;3%2B+Years+of+Real+Experience;Building+Production+Apps+%F0%9F%94%A5;Deadline+Driven+%E2%9C%85+Quality+Focused;Open+to+Freelance+%26+Remote+Work" alt="Typing SVG"/>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,postgres,mysql,mongodb,redis&perline=9" alt="Backend and database technologies" />
 </div>
 
-<br/>
+Mobile & Cross-Platform
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Temurprogram77&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/Temurprogram77?label=Followers&style=social" alt="followers"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&perline=6" alt="Mobile technologies" />
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-```yaml
-👤 Name       : Temurbek Narzullayev
-💼 Role       : Full Stack Developer
-📍 Location   : Qarshi, Uzbekistan 🇺🇿
-⏳ Experience : 3+ Years
-🎯 Specialty  : Frontend → Backend → Mobile
-🌐 Portfolio  : temurbek-narzullayev.vercel.app
-💰 Freelance  : fiverr.com/temurbekcoder
-📬 Telegram   : @FullStack_developeer
-✅ Status     : Open to Remote & Freelance Work
-```
-
----
-
-## 🚀 What I Do
-
-- 🖥️ **Frontend** — React, Next.js, TypeScript, Tailwind CSS bilan zamonaviy UI yarataman
-- ⚙️ **Backend** — Python, Django, FastAPI va PostgreSQL bilan kuchli REST API larni quraman
-- 📱 **Mobile** — Flutter va Dart yordamida Android ilovalar ishlab chiqaman
-- 🏫 **Mentoring** — Sfera IT Academy da yoshlarga frontend o'qitganman
-- ⚡ **Freelance** — Fiverr da xalqaro mijozlarga xizmat ko'rsataman
-- 🔒 **Deadline** — Har doim o'z vaqtida va sifatli yetkazib beraman
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-<div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite,astro,redux&perline=10"/>
-</div>
-
-### ⚙️ Backend
-<div>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql&perline=10"/>
-</div>
-
-### 📱 Mobile
-<div>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&perline=10"/>
-</div>
-
-### 🧰 Tools & DevOps
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,kali,figma,vscode,postman&perline=10"/>
-</div>
-
----
-
-## 🌟 Featured Projects
-
-### 🏫 Nazorat Sfera — Student Monitoring System
-> **Real production loyiha** — hozir ham ishlab turibdi
-
-| | |
-|---|---|
-| 🔗 **Live** | [nazorat.sferaacademy.uz](https://nazorat.sferaacademy.uz) |
-| 🖥️ **Frontend** | React + Vite |
-| ⚙️ **Backend** | Java (jamoa bilan) |
-| 🗄️ **Database** | PostgreSQL |
-| 👥 **Roles** | Super Admin, Admin, Teacher, Student, Parent |
-| 📅 **Year** | 2026 |
-
-> Ota-onalar farzandlarini, o'qituvchilar esa o'quvchilarni real vaqtda kuzatadi.
-
----
-
-### 🍅 Pomofocus Clone
-> Pomodoro texnikasi asosida qurilgan vaqt boshqaruv ilovasi
-
-| | |
-|---|---|
-| 🔗 **Repo** | [github.com/Temurprogram77/pomofocus](https://github.com/Temurprogram77/pomofocus) |
-| ⭐ **Stars** | 8 |
-| 🛠️ **Tech** | JavaScript |
-
----
-
-## 📜 Certificates
-
-| Sertifikat | Tashkilot | Yil |
-|---|---|---|
-| 🏅 Frontend Development | IT Park | 2024 |
-| 🏅 Frontend Development | Sfera IT Academy | 2024 |
-
----
-
-## 💼 Experience
-
-| Lavozim | Tashkilot | Davr |
-|---|---|---|
-| 👨‍🏫 Frontend Mentor | Sfera IT Academy | 2025 — hozir |
-| 💻 Full Stack Developer | Freelance | 2022 — hozir |
-
----
-
-## 📊 GitHub Stats
+Tools, Cloud & Workflow
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Temurprogram77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temurprogram77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,figma,vscode,postman,vercel,npm&perline=9" alt="Tools and workflow technologies" />
 </div>
+
+Core Strengths
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Temurprogram77&theme=tokyonight&hide_border=true&background=0d1117"/>
-</div>
+<img src="https://img.shields.io/badge/REST%20API%20Design-123C69?style=for-the-badge" alt="REST API Design" />
+  <img src="https://img.shields.io/badge/Responsive%20UI-00B3FF?style=for-the-badge" alt="Responsive UI" />
+  <img src="https://img.shields.io/badge/Component%20Architecture-6C5CE7?style=for-the-badge" alt="Component Architecture" />
+  <img src="https://img.shields.io/badge/Database%20Design-20B486?style=for-the-badge" alt="Database Design" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-F59E0B?style=for-the-badge" alt="Problem Solving" />
+</div> <hr />
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Temurprogram77&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
-</div>
-
----
-
-## 📈 Contribution Graph
+GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Temurprogram77&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Temurprogram77&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&title_color=00B3FF&icon_color=00B3FF&text_color=E6EDF3&bg_color=0B1220" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temurprogram77&layout=compact&langs_count=8&hide_border=true&border_radius=14&title_color=00B3FF&text_color=E6EDF3&bg_color=0B1220" alt="Most used programming languages" />
+</div>   
+ <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Temurprogram77&theme=dark&hide_border=true&border_radius=14&background=0B1220&ring=00B3FF&fire=F59E0B&currStreakLabel=00B3FF" alt="GitHub contribution streak" />
 </div>
 
----
-
-## 🤝 Let's Work Together
-
-> 💡 Loyihangiz bormi? Sayt, web app, yoki mobile ilova kerakmi?
-> Men bilan bog'laning — **o'z vaqtida, sifatli, professional** yetkazib beraman.
+GitHub Profile Summary
 
 <div align="center">
-  <a href="https://t.me/FullStack_developeer">
-    <img src="https://img.shields.io/badge/Telegram%20da%20yozing-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://fiverr.com/temurbekcoder">
-    <img src="https://img.shields.io/badge/Fiverr%20da%20buyurtma%20bering-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-  </a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Temurprogram77&theme=github_dark" alt="GitHub profile summary" />
 </div>
 
-<br/>
+Contribution Activity
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://ghchart.rshah.org/00B3FF/Temurprogram77" width="96%" alt="GitHub contribution activity graph" />
+</div> <hr />
+
+Let's Work Together
+
+Have an idea for a website, web application, API, or mobile app? I would be glad to discuss the requirements, define a practical plan, and deliver a clean, reliable solution.
+
+<div align="center">
+<a href="https://t.me/Temurbek_Farkhodovich"><img src="https://img.shields.io/badge/Message%20me%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Message me on Telegram" /></a>
+  <a href="https://www.linkedin.com/in/temurbek-narzullayev/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://fiverr.com/temurbekcoder"><img src="https://img.shields.io/badge/Hire%20me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire me on Fiverr" /></a>
+</div>   
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B3FF,50:123C69,100:0B1220&height=120&section=footer&animation=twinkling" width="100%" alt="Profile footer" />
 </div>
+
